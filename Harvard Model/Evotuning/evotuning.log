@@ -1,5 +1,0 @@
-2023-02-16 06:57:08,609 :: INFO :: Random batching done: All sequences padded to max sequence length of 347
-2023-02-16 06:57:10,068 :: INFO :: Calculations for training set:
-2023-02-16 06:57:10,069 :: INFO :: Epoch 0: Estimated average loss: 0.16744571924209595. 
-2023-02-16 06:57:11,638 :: INFO :: Calculations for holdout set:
-2023-02-16 06:57:11,640 :: INFO :: Epoch 0: Estimated average loss: 0.1674375683069229. 
